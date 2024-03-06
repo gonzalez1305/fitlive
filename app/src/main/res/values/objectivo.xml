@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="objectivo">
+        <item>Ganar_masa_muscular</item>
+        <item>Perder_peso</item>
+        <item>Correr_mas_rapido</item>
+        <item>Biscepp</item>
+        <item>Mejorar_resistencia</item>
+        <item>Mayor_flexibilidad</item>
+    </string-array>
+</resources>

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FitLife</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_apellido">Apellido</string>
+    <string name="hint_edad">Edad</string>
+    <string name="hint_altura">Altura</string>
+    <string name="hint_peso">Peso</string>
+    <string name="hint_objectivo_fisico">Objectivo_fisico</string>
 </resources>
